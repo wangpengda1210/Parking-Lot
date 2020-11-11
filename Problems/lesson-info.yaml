@@ -16,3 +16,6 @@ content:
 - toString() modification
 - equals() check
 - toString() modification (1)
+- Fix a bug
+- Check a code
+- Pretty output
